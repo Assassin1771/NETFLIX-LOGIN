@@ -1,2 +1,5 @@
 # NETFLIX SIGN IN
-A layout for Netflix Sign In page. I developed it to learn basic implementations of HTML &amp; CSS.
+I have created a layout similar to that of Netflix, while signing up for a new account. 
+<br/>
+While making this small project, I learned the basic implementations of HTML and CSS.
+<br/>
